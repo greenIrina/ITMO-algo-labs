@@ -5,6 +5,7 @@
 1. [Sorting algorithms, Heaps, Binary Search](https://github.com/greenIrina/ITMO-algo-labs/tree/main/sem%201/sorting%2C%20heaps%2C%20binsearch)
 2. [Stacks, Queues, Disjoint Set Union](https://github.com/greenIrina/ITMO-algo-labs/tree/main/sem%201/stack%2C%20queue%2C%20dsu)
 3. [Dynamic Programming](https://github.com/greenIrina/ITMO-algo-labs/tree/main/sem%201/dynamic%20programming)
+4. [Greeady algorithms, Hashes]
 ## Semester 2
 1. [Segment trees]
 2. [Search trees]
