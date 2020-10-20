@@ -7,7 +7,7 @@
 3. [Dynamic Programming](https://github.com/greenIrina/ITMO-algo-labs/tree/main/sem%201/dynamic%20programming)
 4. [Greeady algorithms, Hashes, Brute Force](https://github.com/greenIrina/ITMO-algo-labs/tree/main/sem%201/greedy%2C%20hashes%2C%20brute%20force)
 ## Semester 2
-1. [Segment trees]
+1. [Segment trees, Range Queries](https://github.com/greenIrina/ITMO-algo-labs/tree/main/sem%202/segtrees%2C%20range%20queries)
 2. [Search trees]
 3. [Search trees queries]
 ## Semester 3
